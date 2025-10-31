@@ -1,2 +1,2 @@
-# ss-pyqt-app.py
-s²
+# s²
+A simple lightweight screenshot tool for me mostly
