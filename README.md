@@ -1,2 +1,2 @@
 # s²
-A simple lightweight screenshot tool for me mostly
+Simple screenshot (s²) app via XDG portal
